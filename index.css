@@ -1,0 +1,15 @@
+#formulario {
+    margin-top: 1rem;
+}
+
+.div-clase {
+    margin-bottom: 1rem;
+}
+
+.input-clase {
+    margin-right: 0.5rem;
+}
+
+.submit-formulario:hover {
+    cursor: pointer;
+}
